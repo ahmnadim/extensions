@@ -1,0 +1,13 @@
+{
+  "name": "Random Joaks",
+  "description": "Get your mood up with some random jokes!",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": "./icon.png",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "128": "./icon.png"
+  }
+}
